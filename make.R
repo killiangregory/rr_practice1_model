@@ -2,6 +2,10 @@
 #' 
 #' @author Nicolas Casajus \email{nicolas.casajus@fondationbiodiversite.fr}
 #' 
+#' @details
+#' WARNING ongoing experiment on a forked and cloned version!
+#' 
+#' 
 #' @date 2022/11/16
 
 
@@ -18,4 +22,4 @@ pkgload::load_all()
 
 ## Run Project ----
 
-source(here::here("analyses", "download-data.R"))
+source(here::here("analyses", "download-data.R")) # test
