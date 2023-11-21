@@ -13,7 +13,7 @@
 ## Install Dependencies (listed in DESCRIPTION) ----
 
 remotes::install_deps(upgrade = "never")
-
+# it would be good to explain why you did it
 
 ## Load Project Addins (R Functions and Packages) ----
 
